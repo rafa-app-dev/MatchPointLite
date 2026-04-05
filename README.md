@@ -3,7 +3,7 @@
 The ultimate scoring assistant for Padel and Tennis on Apple Watch.
 
 ## Support
-If you have any questions, issues, or feedback, please contact us through this repo.
+If you have any questions, issues, or feedback, please open a new issue in the Issues tab of this repository. This is the fastest way to get in touch with the development team.
 
 ## Privacy Policy
 **MatchPointLite** respects your privacy. 
